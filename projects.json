@@ -1,0 +1,1051 @@
+[
+  {
+    "slug": "kaohsiung-playmore",
+    "title": "高雄樂玩多",
+    "en": "Play More Kaohsiung",
+    "status": "設計／提案",
+    "category": "commercial",
+    "description": "遊憩空間設計提案，以多組 Enscape 視角呈現空間配置、動線與氛圍。",
+    "images": [
+      {
+        "src": "assets/projects/kaohsiung-playmore/01.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 01",
+        "source": "Enscape_2025-02-11-00-06-47_場景號21.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/02.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 02",
+        "source": "Enscape_2025-02-11-00-06-47_場景號10.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/03.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 03",
+        "source": "Enscape_2025-02-11-00-06-47_場景號11.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/04.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 04",
+        "source": "Enscape_2025-02-11-00-06-47_場景號12.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/05.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 05",
+        "source": "Enscape_2025-02-11-00-06-47_場景號17.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/06.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 06",
+        "source": "Enscape_2025-02-11-00-06-47_場景號18.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/07.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 07",
+        "source": "Enscape_2025-02-11-00-06-47_場景號19.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/08.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 08",
+        "source": "Enscape_2025-02-11-00-06-47_場景號20.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/09.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 09",
+        "source": "Enscape_2025-02-11-00-06-47_場景號22.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/10.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 10",
+        "source": "Enscape_2025-02-11-00-06-47_場景號23.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/11.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 11",
+        "source": "Enscape_2025-02-11-00-06-47_場景號24.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/12.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 12",
+        "source": "Enscape_2025-02-11-00-06-47_場景號25.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/13.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 13",
+        "source": "Enscape_2025-02-11-00-06-47_場景號13.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/14.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 14",
+        "source": "Enscape_2025-02-11-00-06-47_場景號15.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/15.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 15",
+        "source": "Enscape_2025-02-11-00-06-47_場景號16.png"
+      },
+      {
+        "src": "assets/projects/kaohsiung-playmore/16.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "高雄樂玩多—設計／提案影像 16",
+        "source": "Enscape_2025-02-11-00-06-47_場景號35.png"
+      }
+    ]
+  },
+  {
+    "slug": "taichung-wuquan",
+    "title": "台中五權南路",
+    "en": "Wuquan South Road",
+    "status": "完工作品",
+    "category": "residential",
+    "description": "老宅翻新完成紀錄，聚焦建築外觀、室內尺度與既有空間更新後的樣貌。",
+    "images": [
+      {
+        "src": "assets/projects/taichung-wuquan/01.jpg",
+        "width": 1478,
+        "height": 1108,
+        "alt": "台中五權南路—完工作品影像 01",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_15.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/02.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "台中五權南路—完工作品影像 02",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_16.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/03.jpg",
+        "width": 900,
+        "height": 1200,
+        "alt": "台中五權南路—完工作品影像 03",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_14.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/04.jpg",
+        "width": 1108,
+        "height": 1478,
+        "alt": "台中五權南路—完工作品影像 04",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_2.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/05.jpg",
+        "width": 1478,
+        "height": 1108,
+        "alt": "台中五權南路—完工作品影像 05",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_3.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/06.jpg",
+        "width": 1108,
+        "height": 1478,
+        "alt": "台中五權南路—完工作品影像 06",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_4.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/07.jpg",
+        "width": 1108,
+        "height": 1478,
+        "alt": "台中五權南路—完工作品影像 07",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_5.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/08.jpg",
+        "width": 1108,
+        "height": 1478,
+        "alt": "台中五權南路—完工作品影像 08",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_6.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/09.jpg",
+        "width": 1108,
+        "height": 1478,
+        "alt": "台中五權南路—完工作品影像 09",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_7.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/10.jpg",
+        "width": 905,
+        "height": 1448,
+        "alt": "台中五權南路—完工作品影像 10",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_8.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/11.jpg",
+        "width": 926,
+        "height": 1168,
+        "alt": "台中五權南路—完工作品影像 11",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_9.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/12.jpg",
+        "width": 1108,
+        "height": 1478,
+        "alt": "台中五權南路—完工作品影像 12",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_1.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/13.jpg",
+        "width": 900,
+        "height": 1200,
+        "alt": "台中五權南路—完工作品影像 13",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_10.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/14.jpg",
+        "width": 943,
+        "height": 900,
+        "alt": "台中五權南路—完工作品影像 14",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_11.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/15.jpg",
+        "width": 900,
+        "height": 1200,
+        "alt": "台中五權南路—完工作品影像 15",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_12.jpg"
+      },
+      {
+        "src": "assets/projects/taichung-wuquan/16.jpg",
+        "width": 792,
+        "height": 1131,
+        "alt": "台中五權南路—完工作品影像 16",
+        "source": "LINE_ALBUM_台中老宅翻新_260701_13.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "taoyuan-yaxin",
+    "title": "亞昕向陽",
+    "en": "Yaxin Xiangyang",
+    "status": "完工作品",
+    "category": "residential",
+    "description": "住宅空間完工攝影，記錄材料、收納與生活場景之間的整體關係。",
+    "images": [
+      {
+        "src": "assets/projects/taoyuan-yaxin/01.jpg",
+        "width": 2048,
+        "height": 1408,
+        "alt": "亞昕向陽—完工作品影像 01",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_14.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/02.jpg",
+        "width": 2048,
+        "height": 1366,
+        "alt": "亞昕向陽—完工作品影像 02",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_19.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/03.jpg",
+        "width": 2048,
+        "height": 1358,
+        "alt": "亞昕向陽—完工作品影像 03",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_20.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/04.jpg",
+        "width": 2048,
+        "height": 1383,
+        "alt": "亞昕向陽—完工作品影像 04",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_18.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/05.jpg",
+        "width": 2048,
+        "height": 1286,
+        "alt": "亞昕向陽—完工作品影像 05",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_13.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/06.jpg",
+        "width": 2048,
+        "height": 1344,
+        "alt": "亞昕向陽—完工作品影像 06",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_10.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/07.jpg",
+        "width": 1354,
+        "height": 2048,
+        "alt": "亞昕向陽—完工作品影像 07",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_11.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/08.jpg",
+        "width": 2048,
+        "height": 1365,
+        "alt": "亞昕向陽—完工作品影像 08",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_2.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/09.jpg",
+        "width": 2048,
+        "height": 1500,
+        "alt": "亞昕向陽—完工作品影像 09",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_21.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/10.jpg",
+        "width": 1561,
+        "height": 2048,
+        "alt": "亞昕向陽—完工作品影像 10",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_3.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/11.jpg",
+        "width": 2048,
+        "height": 1342,
+        "alt": "亞昕向陽—完工作品影像 11",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_30.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/12.jpg",
+        "width": 2048,
+        "height": 1462,
+        "alt": "亞昕向陽—完工作品影像 12",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_31.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/13.jpg",
+        "width": 2048,
+        "height": 1365,
+        "alt": "亞昕向陽—完工作品影像 13",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_35.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/14.jpg",
+        "width": 2048,
+        "height": 1365,
+        "alt": "亞昕向陽—完工作品影像 14",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_4.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/15.jpg",
+        "width": 2048,
+        "height": 1367,
+        "alt": "亞昕向陽—完工作品影像 15",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_58.jpg"
+      },
+      {
+        "src": "assets/projects/taoyuan-yaxin/16.jpg",
+        "width": 2048,
+        "height": 1363,
+        "alt": "亞昕向陽—完工作品影像 16",
+        "source": "LINE_ALBUM_桃園亞昕林宅_260701_9.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "zhongyi-office",
+    "title": "仲誼公關辦公室",
+    "en": "Zhongyi PR Office",
+    "status": "完工作品",
+    "category": "workplace",
+    "description": "公關辦公空間完工紀錄，呈現工作、會議與交流場域的配置。",
+    "images": [
+      {
+        "src": "assets/projects/zhongyi-office/01.jpg",
+        "width": 1707,
+        "height": 960,
+        "alt": "仲誼公關辦公室—完工作品影像 01",
+        "source": "LINE_ALBUM_仲誼_260701_16.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/02.jpg",
+        "width": 1707,
+        "height": 960,
+        "alt": "仲誼公關辦公室—完工作品影像 02",
+        "source": "LINE_ALBUM_仲誼_260701_15.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/03.jpg",
+        "width": 1707,
+        "height": 960,
+        "alt": "仲誼公關辦公室—完工作品影像 03",
+        "source": "LINE_ALBUM_仲誼_260701_18.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/04.jpg",
+        "width": 1707,
+        "height": 960,
+        "alt": "仲誼公關辦公室—完工作品影像 04",
+        "source": "LINE_ALBUM_仲誼_260701_19.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/05.jpg",
+        "width": 1707,
+        "height": 960,
+        "alt": "仲誼公關辦公室—完工作品影像 05",
+        "source": "LINE_ALBUM_仲誼_260701_21.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/06.jpg",
+        "width": 1707,
+        "height": 960,
+        "alt": "仲誼公關辦公室—完工作品影像 06",
+        "source": "LINE_ALBUM_仲誼_260701_24.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/07.jpg",
+        "width": 1479,
+        "height": 1109,
+        "alt": "仲誼公關辦公室—完工作品影像 07",
+        "source": "LINE_ALBUM_仲誼_260701_26.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/08.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "仲誼公關辦公室—完工作品影像 08",
+        "source": "LINE_ALBUM_仲誼_260701_29.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/09.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "仲誼公關辦公室—完工作品影像 09",
+        "source": "LINE_ALBUM_仲誼_260701_31.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/10.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "仲誼公關辦公室—完工作品影像 10",
+        "source": "LINE_ALBUM_仲誼_260701_33.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/11.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "仲誼公關辦公室—完工作品影像 11",
+        "source": "LINE_ALBUM_仲誼_260701_35.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/12.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "仲誼公關辦公室—完工作品影像 12",
+        "source": "LINE_ALBUM_仲誼_260701_36.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/13.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "仲誼公關辦公室—完工作品影像 13",
+        "source": "LINE_ALBUM_仲誼_260701_39.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/14.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "仲誼公關辦公室—完工作品影像 14",
+        "source": "LINE_ALBUM_仲誼_260701_43.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/15.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "仲誼公關辦公室—完工作品影像 15",
+        "source": "LINE_ALBUM_仲誼_260701_45.jpg"
+      },
+      {
+        "src": "assets/projects/zhongyi-office/16.jpg",
+        "width": 1706,
+        "height": 960,
+        "alt": "仲誼公關辦公室—完工作品影像 16",
+        "source": "LINE_ALBUM_仲誼_260701_66.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "linkou-weige",
+    "title": "林口微閣雲品",
+    "en": "Linkou Weige Yunpin",
+    "status": "完工作品",
+    "category": "residential",
+    "description": "住宅室內完工攝影，以連續視角呈現公共區域與私領域的空間銜接。",
+    "images": [
+      {
+        "src": "assets/projects/linkou-weige/01.jpg",
+        "width": 1566,
+        "height": 1044,
+        "alt": "林口微閣雲品—完工作品影像 01",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_188.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/02.jpg",
+        "width": 1576,
+        "height": 1038,
+        "alt": "林口微閣雲品—完工作品影像 02",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_189.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/03.jpg",
+        "width": 1558,
+        "height": 1050,
+        "alt": "林口微閣雲品—完工作品影像 03",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_190.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/04.jpg",
+        "width": 1566,
+        "height": 1044,
+        "alt": "林口微閣雲品—完工作品影像 04",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_192.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/05.jpg",
+        "width": 2048,
+        "height": 1536,
+        "alt": "林口微閣雲品—完工作品影像 05",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_116.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/06.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "林口微閣雲品—完工作品影像 06",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_126.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/07.jpg",
+        "width": 1549,
+        "height": 1057,
+        "alt": "林口微閣雲品—完工作品影像 07",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_139.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/08.jpg",
+        "width": 1536,
+        "height": 1066,
+        "alt": "林口微閣雲品—完工作品影像 08",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_140.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/09.jpg",
+        "width": 1571,
+        "height": 1042,
+        "alt": "林口微閣雲品—完工作品影像 09",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_141.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/10.jpg",
+        "width": 1541,
+        "height": 1063,
+        "alt": "林口微閣雲品—完工作品影像 10",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_142.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/11.jpg",
+        "width": 1559,
+        "height": 1049,
+        "alt": "林口微閣雲品—完工作品影像 11",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_143.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/12.jpg",
+        "width": 1566,
+        "height": 1044,
+        "alt": "林口微閣雲品—完工作品影像 12",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_146.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/13.jpg",
+        "width": 1044,
+        "height": 1566,
+        "alt": "林口微閣雲品—完工作品影像 13",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_148.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/14.jpg",
+        "width": 1566,
+        "height": 1044,
+        "alt": "林口微閣雲品—完工作品影像 14",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_149.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/15.jpg",
+        "width": 1566,
+        "height": 1044,
+        "alt": "林口微閣雲品—完工作品影像 15",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_156.jpg"
+      },
+      {
+        "src": "assets/projects/linkou-weige/16.jpg",
+        "width": 1562,
+        "height": 1048,
+        "alt": "林口微閣雲品—完工作品影像 16",
+        "source": "LINE_ALBUM_林口薇格2024.12.11_260701_163.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "tianmu-ye",
+    "title": "天母葉公館",
+    "en": "Tianmu Residence",
+    "status": "完工作品",
+    "category": "residential",
+    "description": "天母住宅完工紀錄，聚焦家具、材質、光線與空間比例。",
+    "images": [
+      {
+        "src": "assets/projects/tianmu-ye/01.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "天母葉公館—完工作品影像 01",
+        "source": "LINE_ALBUM_天母葉宅_260701_109.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/02.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "天母葉公館—完工作品影像 02",
+        "source": "LINE_ALBUM_天母葉宅_260701_104.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/03.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "天母葉公館—完工作品影像 03",
+        "source": "LINE_ALBUM_天母葉宅_260701_92.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/04.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "天母葉公館—完工作品影像 04",
+        "source": "LINE_ALBUM_天母葉宅_260701_108.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/05.jpg",
+        "width": 1152,
+        "height": 2048,
+        "alt": "天母葉公館—完工作品影像 05",
+        "source": "LINE_ALBUM_天母葉宅_260701_36.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/06.jpg",
+        "width": 2048,
+        "height": 1365,
+        "alt": "天母葉公館—完工作品影像 06",
+        "source": "LINE_ALBUM_天母葉宅_260701_15.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/07.jpg",
+        "width": 1365,
+        "height": 2048,
+        "alt": "天母葉公館—完工作品影像 07",
+        "source": "LINE_ALBUM_天母葉宅_260701_17.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/08.jpg",
+        "width": 1365,
+        "height": 2048,
+        "alt": "天母葉公館—完工作品影像 08",
+        "source": "LINE_ALBUM_天母葉宅_260701_20.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/09.jpg",
+        "width": 1365,
+        "height": 2048,
+        "alt": "天母葉公館—完工作品影像 09",
+        "source": "LINE_ALBUM_天母葉宅_260701_33.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/10.jpg",
+        "width": 1152,
+        "height": 2048,
+        "alt": "天母葉公館—完工作品影像 10",
+        "source": "LINE_ALBUM_天母葉宅_260701_34.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/11.jpg",
+        "width": 1365,
+        "height": 2048,
+        "alt": "天母葉公館—完工作品影像 11",
+        "source": "LINE_ALBUM_天母葉宅_260701_41.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/12.jpg",
+        "width": 1365,
+        "height": 2048,
+        "alt": "天母葉公館—完工作品影像 12",
+        "source": "LINE_ALBUM_天母葉宅_260701_43.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/13.jpg",
+        "width": 1152,
+        "height": 2048,
+        "alt": "天母葉公館—完工作品影像 13",
+        "source": "LINE_ALBUM_天母葉宅_260701_46.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/14.jpg",
+        "width": 1365,
+        "height": 2048,
+        "alt": "天母葉公館—完工作品影像 14",
+        "source": "LINE_ALBUM_天母葉宅_260701_60.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/15.jpg",
+        "width": 1536,
+        "height": 2048,
+        "alt": "天母葉公館—完工作品影像 15",
+        "source": "LINE_ALBUM_天母葉宅_260701_63.jpg"
+      },
+      {
+        "src": "assets/projects/tianmu-ye/16.jpg",
+        "width": 1365,
+        "height": 2048,
+        "alt": "天母葉公館—完工作品影像 16",
+        "source": "LINE_ALBUM_天母葉宅_260701_9.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "muzha-yuanli",
+    "title": "木柵元利森活劉公宅",
+    "en": "Muzha Yuanli Residence",
+    "status": "完工作品",
+    "category": "residential",
+    "description": "住宅空間完工攝影，呈現公共空間、機能安排與細部收束。",
+    "images": [
+      {
+        "src": "assets/projects/muzha-yuanli/01.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "木柵元利森活劉公宅—完工作品影像 01",
+        "source": "LINE_ALBUM_元利森活_260701_27.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/02.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "木柵元利森活劉公宅—完工作品影像 02",
+        "source": "LINE_ALBUM_元利森活_260701_26.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/03.jpg",
+        "width": 871,
+        "height": 1228,
+        "alt": "木柵元利森活劉公宅—完工作品影像 03",
+        "source": "LINE_ALBUM_元利森活_260701_25.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/04.jpg",
+        "width": 878,
+        "height": 1257,
+        "alt": "木柵元利森活劉公宅—完工作品影像 04",
+        "source": "LINE_ALBUM_元利森活_260701_24.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/05.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "木柵元利森活劉公宅—完工作品影像 05",
+        "source": "LINE_ALBUM_元利森活_260701_23.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/06.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "木柵元利森活劉公宅—完工作品影像 06",
+        "source": "LINE_ALBUM_元利森活_260701_21.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/07.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "木柵元利森活劉公宅—完工作品影像 07",
+        "source": "LINE_ALBUM_元利森活_260701_22.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/08.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "木柵元利森活劉公宅—完工作品影像 08",
+        "source": "LINE_ALBUM_元利森活_260701_19.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/09.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "木柵元利森活劉公宅—完工作品影像 09",
+        "source": "LINE_ALBUM_元利森活_260701_20.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/10.jpg",
+        "width": 1477,
+        "height": 1108,
+        "alt": "木柵元利森活劉公宅—完工作品影像 10",
+        "source": "LINE_ALBUM_元利森活_260701_31.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/11.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "木柵元利森活劉公宅—完工作品影像 11",
+        "source": "LINE_ALBUM_元利森活_260701_5.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/12.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "木柵元利森活劉公宅—完工作品影像 12",
+        "source": "LINE_ALBUM_元利森活_260701_6.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/13.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "木柵元利森活劉公宅—完工作品影像 13",
+        "source": "LINE_ALBUM_元利森活_260701_7.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/14.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "木柵元利森活劉公宅—完工作品影像 14",
+        "source": "LINE_ALBUM_元利森活_260701_8.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/15.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "木柵元利森活劉公宅—完工作品影像 15",
+        "source": "LINE_ALBUM_元利森活_260701_16.jpg"
+      },
+      {
+        "src": "assets/projects/muzha-yuanli/16.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "木柵元利森活劉公宅—完工作品影像 16",
+        "source": "LINE_ALBUM_元利森活_260701_17.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "jingumae-507",
+    "title": "Proud Jingumae 507",
+    "en": "Proud Jingumae Room 507",
+    "status": "完工作品",
+    "category": "residential",
+    "description": "東京住宅空間完工紀錄，以精選視角呈現室內材質與生活尺度。",
+    "images": [
+      {
+        "src": "assets/projects/jingumae-507/01.jpg",
+        "width": 2200,
+        "height": 1651,
+        "alt": "Proud Jingumae 507—完工作品影像 01",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_80.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/02.jpg",
+        "width": 1651,
+        "height": 2200,
+        "alt": "Proud Jingumae 507—完工作品影像 02",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_88.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/03.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "Proud Jingumae 507—完工作品影像 03",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_9.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/04.jpg",
+        "width": 1651,
+        "height": 2200,
+        "alt": "Proud Jingumae 507—完工作品影像 04",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_41.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/05.jpg",
+        "width": 1649,
+        "height": 2200,
+        "alt": "Proud Jingumae 507—完工作品影像 05",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_46.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/06.jpg",
+        "width": 1475,
+        "height": 925,
+        "alt": "Proud Jingumae 507—完工作品影像 06",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_5.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/07.jpg",
+        "width": 1651,
+        "height": 2200,
+        "alt": "Proud Jingumae 507—完工作品影像 07",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_57.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/08.jpg",
+        "width": 1649,
+        "height": 2200,
+        "alt": "Proud Jingumae 507—完工作品影像 08",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_59.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/09.jpg",
+        "width": 1651,
+        "height": 2200,
+        "alt": "Proud Jingumae 507—完工作品影像 09",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_68.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/10.jpg",
+        "width": 1108,
+        "height": 1477,
+        "alt": "Proud Jingumae 507—完工作品影像 10",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_7.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/11.jpg",
+        "width": 1651,
+        "height": 2200,
+        "alt": "Proud Jingumae 507—完工作品影像 11",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_72.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/12.jpg",
+        "width": 1651,
+        "height": 2200,
+        "alt": "Proud Jingumae 507—完工作品影像 12",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_77.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/13.jpg",
+        "width": 1648,
+        "height": 2200,
+        "alt": "Proud Jingumae 507—完工作品影像 13",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_82.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/14.jpg",
+        "width": 2200,
+        "height": 1649,
+        "alt": "Proud Jingumae 507—完工作品影像 14",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_83.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/15.jpg",
+        "width": 1651,
+        "height": 2200,
+        "alt": "Proud Jingumae 507—完工作品影像 15",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_85.jpg"
+      },
+      {
+        "src": "assets/projects/jingumae-507/16.jpg",
+        "width": 1651,
+        "height": 2200,
+        "alt": "Proud Jingumae 507—完工作品影像 16",
+        "source": "LINE_ALBUM_Proud Jingumae案_260701_86.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "olivia-cafe",
+    "title": "鴻海 Olivia 咖啡店競標",
+    "en": "Olivia Café Proposal",
+    "status": "設計／提案",
+    "category": "commercial",
+    "description": "咖啡店競標設計提案，以效果圖呈現品牌氛圍、座席與服務空間構想。",
+    "images": [
+      {
+        "src": "assets/projects/olivia-cafe/01.jpg",
+        "width": 2200,
+        "height": 1315,
+        "alt": "鴻海 Olivia 咖啡店競標—設計／提案影像 01",
+        "source": "0309鴻海Olivia咖啡1.jpg"
+      },
+      {
+        "src": "assets/projects/olivia-cafe/02.jpg",
+        "width": 2200,
+        "height": 1315,
+        "alt": "鴻海 Olivia 咖啡店競標—設計／提案影像 02",
+        "source": "0309鴻海Olivia咖啡2.jpg"
+      },
+      {
+        "src": "assets/projects/olivia-cafe/03.jpg",
+        "width": 2200,
+        "height": 1315,
+        "alt": "鴻海 Olivia 咖啡店競標—設計／提案影像 03",
+        "source": "0309鴻海Olivia咖啡3.jpg"
+      },
+      {
+        "src": "assets/projects/olivia-cafe/04.jpg",
+        "width": 2200,
+        "height": 1315,
+        "alt": "鴻海 Olivia 咖啡店競標—設計／提案影像 04",
+        "source": "0309鴻海Olivia咖啡4.jpg"
+      },
+      {
+        "src": "assets/projects/olivia-cafe/05.jpg",
+        "width": 2200,
+        "height": 1315,
+        "alt": "鴻海 Olivia 咖啡店競標—設計／提案影像 05",
+        "source": "0309鴻海Olivia咖啡5.jpg"
+      },
+      {
+        "src": "assets/projects/olivia-cafe/06.jpg",
+        "width": 2200,
+        "height": 1315,
+        "alt": "鴻海 Olivia 咖啡店競標—設計／提案影像 06",
+        "source": "0309鴻海Olivia咖啡6.jpg"
+      },
+      {
+        "src": "assets/projects/olivia-cafe/07.jpg",
+        "width": 2200,
+        "height": 1315,
+        "alt": "鴻海 Olivia 咖啡店競標—設計／提案影像 07",
+        "source": "0309鴻海Olivia咖啡7.jpg"
+      },
+      {
+        "src": "assets/projects/olivia-cafe/08.jpg",
+        "width": 2200,
+        "height": 1315,
+        "alt": "鴻海 Olivia 咖啡店競標—設計／提案影像 08",
+        "source": "0309鴻海Olivia咖啡8.jpg"
+      },
+      {
+        "src": "assets/projects/olivia-cafe/09.jpg",
+        "width": 2200,
+        "height": 1317,
+        "alt": "鴻海 Olivia 咖啡店競標—設計／提案影像 09",
+        "source": "0309鴻海Olivia咖啡ㄅ.jpg"
+      }
+    ]
+  }
+]
