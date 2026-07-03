@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-Hant">
 <head>
   <meta charset="utf-8">
@@ -8,11 +8,10 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="古捷宇｜Interior Design Portfolio">
   <meta property="og:description" content="住宅、商業空間與辦公空間設計作品集。">
-  <meta property="og:image" content="assets/projects/tianmu-ye/01.jpg">
-  <meta name="robots" content="index,follow,max-image-preview:large">
+  <meta property="og:image" content="assets/projects/taichung-wuquan/01.jpg">
   <title>古捷宇｜Interior Design Portfolio</title>
   <link rel="icon" href="assets/favicon.png">
-  <link rel="preload" as="image" href="assets/projects/tianmu-ye/01.jpg" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/profile.jpg">
   <link rel="stylesheet" href="styles.css">
   <script src="app.js" defer></script>
 </head>
@@ -28,16 +27,16 @@
     </nav>
   </header>
   <main id="view" tabindex="-1"><div class="loading">Curating spaces…</div></main>
-  <footer class="site-footer"><span>JIE-YU GU · INTERIOR DESIGN</span><span>TAIWAN · <span id="year"></span></span></footer>
+  <footer class="site-footer"><span>JIE-YU GU · SELECTED WORKS</span><span>TAIWAN · <span id="year"></span></span></footer>
 
-  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-labelledby="lb-title" hidden>
-    <div class="lb-top"><span id="lb-title"></span><span id="lb-count"></span><button type="button" id="lb-close" aria-label="關閉相簿">×</button></div>
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-labelledby="lb-title" aria-hidden="true">
+    <div class="lb-top"><span id="lb-title"></span><span id="lb-count"></span><button id="lb-close" aria-label="關閉相簿">×</button></div>
     <div class="lb-stage">
-      <button type="button" id="lb-prev" class="lb-nav" aria-label="上一張">‹</button>
-      <figure><img id="lb-image" src="assets/projects/tianmu-ye/01.jpg" alt=""><figcaption id="lb-caption"></figcaption></figure>
-      <button type="button" id="lb-next" class="lb-nav" aria-label="下一張">›</button>
+      <button id="lb-prev" class="lb-nav" aria-label="上一張">‹</button>
+      <figure><img id="lb-image" alt=""><figcaption id="lb-caption"></figcaption></figure>
+      <button id="lb-next" class="lb-nav" aria-label="下一張">›</button>
     </div>
-    <div id="lb-thumbs" class="lb-thumbs" role="group" aria-label="相簿縮圖"></div>
+    <div id="lb-thumbs" class="lb-thumbs" aria-label="相簿縮圖"></div>
   </div>
 </body>
 </html>

@@ -119,16 +119,6 @@
         "alt": "高雄樂玩多—設計／提案影像 16",
         "source": "Enscape_2025-02-11-00-06-47_場景號35.png"
       }
-    ],
-    "drawings": [
-      {
-        "src": "assets/projects/kaohsiung-playmore/drawing-01.jpg",
-        "width": 2200,
-        "height": 1556,
-        "alt": "高雄樂玩多—設計圖面",
-        "source": "0107高雄展場-A3.pdf",
-        "label": "平面／設計圖面"
-      }
     ]
   },
   {
@@ -251,8 +241,7 @@
         "alt": "台中五權南路—完工作品影像 16",
         "source": "LINE_ALBUM_台中老宅翻新_260701_13.jpg"
       }
-    ],
-    "drawings": []
+    ]
   },
   {
     "slug": "taoyuan-yaxin",
@@ -373,16 +362,6 @@
         "height": 1363,
         "alt": "亞昕向陽—完工作品影像 16",
         "source": "LINE_ALBUM_桃園亞昕林宅_260701_9.jpg"
-      }
-    ],
-    "drawings": [
-      {
-        "src": "assets/projects/taoyuan-yaxin/drawing-01.jpg",
-        "width": 2200,
-        "height": 1556,
-        "alt": "亞昕向陽—設計圖面",
-        "source": "1201亞昕向陽-平面配置圖.pdf",
-        "label": "平面／設計圖面"
       }
     ]
   },
@@ -506,16 +485,6 @@
         "alt": "仲誼公關辦公室—完工作品影像 16",
         "source": "LINE_ALBUM_仲誼_260701_66.jpg"
       }
-    ],
-    "drawings": [
-      {
-        "src": "assets/projects/zhongyi-office/drawing-01.jpg",
-        "width": 2200,
-        "height": 1557,
-        "alt": "仲誼公關辦公室—設計圖面",
-        "source": "仲誼2-A3 復量.pdf",
-        "label": "平面／設計圖面"
-      }
     ]
   },
   {
@@ -637,16 +606,6 @@
         "height": 1048,
         "alt": "林口微閣雲品—完工作品影像 16",
         "source": "LINE_ALBUM_林口薇格2024.12.11_260701_163.jpg"
-      }
-    ],
-    "drawings": [
-      {
-        "src": "assets/projects/linkou-weige/drawing-01.jpg",
-        "width": 2200,
-        "height": 1556,
-        "alt": "林口微閣雲品—設計圖面",
-        "source": "0808林口微閣雲品ELEV2.pdf",
-        "label": "平面／設計圖面"
       }
     ]
   },
@@ -770,16 +729,6 @@
         "alt": "天母葉公館—完工作品影像 16",
         "source": "LINE_ALBUM_天母葉宅_260701_9.jpg"
       }
-    ],
-    "drawings": [
-      {
-        "src": "assets/projects/tianmu-ye/drawing-01.jpg",
-        "width": 2200,
-        "height": 1557,
-        "alt": "天母葉公館—設計圖面",
-        "source": "0526天母葉公館圖面-ELEV.pdf",
-        "label": "平面／設計圖面"
-      }
     ]
   },
   {
@@ -901,16 +850,6 @@
         "height": 1477,
         "alt": "木柵元利森活劉公宅—完工作品影像 16",
         "source": "LINE_ALBUM_元利森活_260701_17.jpg"
-      }
-    ],
-    "drawings": [
-      {
-        "src": "assets/projects/muzha-yuanli/drawing-01.jpg",
-        "width": 2200,
-        "height": 1556,
-        "alt": "木柵元利森活劉公宅—設計圖面",
-        "source": "0604木柵元利森活劉宅-平面.pdf",
-        "label": "平面／設計圖面"
       }
     ]
   },
@@ -1034,16 +973,6 @@
         "alt": "Proud Jingumae 507—完工作品影像 16",
         "source": "LINE_ALBUM_Proud Jingumae案_260701_86.jpg"
       }
-    ],
-    "drawings": [
-      {
-        "src": "assets/projects/jingumae-507/drawing-01.jpg",
-        "width": 2200,
-        "height": 1557,
-        "alt": "Proud Jingumae 507—設計圖面",
-        "source": "（0128)Proud Jingumae room 507-平面.jpg",
-        "label": "平面／設計圖面"
-      }
     ]
   },
   {
@@ -1116,16 +1045,6 @@
         "height": 1317,
         "alt": "鴻海 Olivia 咖啡店競標—設計／提案影像 09",
         "source": "0309鴻海Olivia咖啡ㄅ.jpg"
-      }
-    ],
-    "drawings": [
-      {
-        "src": "assets/projects/olivia-cafe/drawing-01.jpg",
-        "width": 2200,
-        "height": 1557,
-        "alt": "鴻海 Olivia 咖啡店競標—設計圖面",
-        "source": "0408鴻華Olivia咖啡-平面配置圖.pdf",
-        "label": "平面／設計圖面"
       }
     ]
   }
