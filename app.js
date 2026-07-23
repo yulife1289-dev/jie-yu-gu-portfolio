@@ -1,4 +1,4 @@
-const PROJECT_NUMBERS={'kaohsiung-playmore':1,'taichung-wuquan':7,'taoyuan-yaxin':12,'zhongyi-office':16,'linkou-weige':17,'tianmu-ye':22,'muzha-yuanli':24,'jingumae-507':25,'olivia-cafe':26};
+const PROJECT_NUMBERS={'tianmu-ye':15,'muzha-yuanli':14,'linkou-weige':13,'taoyuan-yaxin':12,'kaohsiung-the-one':11,'public-amenities':10,'fubon-jiuzhuang':9,'xinyi-crown':8,'yipinju':7,'tainan-holiday-home':6,'fubon-liren-amenities':5,'baohui-qiuhonggu':4,'tianmu-lin':3,'nanjing-xie':2,'new-xiangshan':1};
 const state={projects:[],gallery:null,index:0,opener:null,carouselIndex:0,projectsScroll:0,lastPage:null};
 const view=document.querySelector('#view');
 const esc=s=>String(s).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
@@ -9,11 +9,7 @@ function preloadAround(images,idx){const len=images.length;if(len<2)return;prelo
 async function init(){
   const res=await fetch('projects.json');
   if(!res.ok) throw new Error('作品資料載入失敗');
-  state.projects=(await res.json()).sort((a,b)=>{
-    if(a.slug==='tianmu-ye') return -1;
-    if(b.slug==='tianmu-ye') return 1;
-    return PROJECT_NUMBERS[b.slug]-PROJECT_NUMBERS[a.slug];
-  });
+  state.projects=(await res.json()).sort((a,b)=>PROJECT_NUMBERS[b.slug]-PROJECT_NUMBERS[a.slug]);
   document.querySelector('#year').textContent=new Date().getFullYear();
   addEventListener('hashchange',render); render(); bindLightbox(); bindImageProtection();
 }
